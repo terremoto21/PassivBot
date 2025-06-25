@@ -5,7 +5,7 @@
 :warning: **Used at one's own risk** :warning:
 
 v7.3.12
-Release Updated (23/06/2025)
+Release Updated (26/06/2025)
 
 ## Overview
 
